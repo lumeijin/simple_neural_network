@@ -1,0 +1,2 @@
+# simple_neural_network
+主要涉及简单的三层神经网络,并用它进行了手写数字识别
